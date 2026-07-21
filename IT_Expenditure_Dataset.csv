@@ -1,0 +1,1001 @@
+Expense_ID,Date,Department,Category,Sub_Category,Vendor_Name,Planned_Budget,Actual_Spend,Approval_Status
+EXP-10000,2025-10-16,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,31217.81,28846.92,Approved within Budget
+EXP-10001,2024-04-24,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,71550.0,76326.71,Approved with Variance
+EXP-10002,2024-01-26,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,56239.58,67441.29,Over-budget Flag
+EXP-10003,2026-01-29,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,46906.09,53608.5,Approved with Variance
+EXP-10004,2024-10-08,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,15921.3,18669.71,Over-budget Flag
+EXP-10005,2024-09-07,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,15919.62,17726.71,Approved with Variance
+EXP-10006,2024-08-16,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,9065.85,10216.4,Approved with Variance
+EXP-10007,2024-05-22,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,65632.33,78081.36,Over-budget Flag
+EXP-10008,2026-01-24,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,47078.05,44717.9,Approved within Budget
+EXP-10009,2024-04-14,Software Engineering,Cloud & Hosting,Docker Hub,Docker,54565.08,57062.52,Approved with Variance
+EXP-10010,2025-11-23,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,6440.91,6044.69,Approved within Budget
+EXP-10011,2026-01-28,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,72893.69,90757.54,Over-budget Flag
+EXP-10012,2025-07-12,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,63270.98,77672.96,Over-budget Flag
+EXP-10013,2024-03-30,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,19863.74,17197.44,Approved within Budget
+EXP-10014,2025-08-27,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,17727.75,20071.89,Approved with Variance
+EXP-10015,2025-03-08,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,17838.32,21764.52,Over-budget Flag
+EXP-10016,2024-02-02,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,26296.96,24251.85,Approved within Budget
+EXP-10017,2024-01-31,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,41732.95,44953.82,Approved with Variance
+EXP-10018,2024-04-05,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,35236.15,42854.04,Over-budget Flag
+EXP-10019,2024-08-11,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,25386.04,21922.84,Approved within Budget
+EXP-10020,2024-08-26,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,47829.7,53998.21,Approved with Variance
+EXP-10021,2025-06-01,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,14764.57,14305.98,Approved within Budget
+EXP-10022,2025-09-08,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,25450.13,31043.01,Over-budget Flag
+EXP-10023,2024-01-28,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,30645.33,37951.89,Over-budget Flag
+EXP-10024,2025-07-28,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,36924.9,45332.94,Over-budget Flag
+EXP-10025,2024-07-22,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,59962.32,62341.97,Approved with Variance
+EXP-10026,2026-01-03,Software Engineering,Cloud & Hosting,Docker Hub,Docker,18977.16,22674.23,Over-budget Flag
+EXP-10027,2025-10-27,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,40996.41,48696.35,Over-budget Flag
+EXP-10028,2025-12-19,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,46469.02,45429.98,Approved within Budget
+EXP-10029,2025-07-12,Software Engineering,Cloud & Hosting,Docker Hub,Docker,8251.53,9749.73,Over-budget Flag
+EXP-10030,2025-03-05,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,47528.14,41102.48,Approved within Budget
+EXP-10031,2024-08-13,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,16936.69,18435.72,Approved with Variance
+EXP-10032,2025-04-04,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,9553.61,8999.53,Approved within Budget
+EXP-10033,2025-08-26,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,71421.99,64153.14,Approved within Budget
+EXP-10034,2024-10-11,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,72594.24,63939.65,Approved within Budget
+EXP-10035,2026-04-08,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,61587.81,69502.8,Approved with Variance
+EXP-10036,2026-06-09,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,26322.96,25953.12,Approved within Budget
+EXP-10037,2024-01-07,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,11837.05,13493.13,Approved with Variance
+EXP-10038,2026-02-16,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,52896.31,46344.71,Approved within Budget
+EXP-10039,2026-04-05,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,35810.67,34955.37,Approved within Budget
+EXP-10040,2024-06-12,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,13542.68,14433.74,Approved with Variance
+EXP-10041,2025-12-15,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,39662.38,46257.81,Over-budget Flag
+EXP-10042,2025-03-08,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,7407.2,7240.55,Approved within Budget
+EXP-10043,2024-12-14,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,68652.43,75542.15,Approved with Variance
+EXP-10044,2024-10-11,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,23114.6,27839.02,Over-budget Flag
+EXP-10045,2024-06-08,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,51376.56,56326.45,Approved with Variance
+EXP-10046,2024-08-08,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,26819.78,25295.98,Approved within Budget
+EXP-10047,2026-02-20,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,41404.76,35598.17,Approved within Budget
+EXP-10048,2024-12-10,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,43269.72,51838.84,Over-budget Flag
+EXP-10049,2024-04-14,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,17939.81,15401.47,Approved within Budget
+EXP-10050,2024-04-04,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,72870.92,87436.41,Over-budget Flag
+EXP-10051,2025-01-24,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,59259.3,62908.18,Approved with Variance
+EXP-10052,2024-04-09,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Palo Alto Networks,70764.93,86731.41,Over-budget Flag
+EXP-10053,2025-01-02,Software Engineering,Cloud & Hosting,Docker Hub,Docker,67637.91,79103.43,Over-budget Flag
+EXP-10054,2026-05-17,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,46853.0,58527.53,Over-budget Flag
+EXP-10055,2024-12-18,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,69531.2,68855.69,Approved within Budget
+EXP-10056,2025-09-10,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,11194.48,12950.62,Over-budget Flag
+EXP-10057,2024-09-27,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,18718.8,18920.45,Approved with Variance
+EXP-10058,2026-04-06,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,8165.91,8508.47,Approved with Variance
+EXP-10059,2024-02-14,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,27773.12,30578.27,Approved with Variance
+EXP-10060,2026-01-17,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,32207.41,38631.85,Over-budget Flag
+EXP-10061,2025-04-15,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,23994.43,29840.27,Over-budget Flag
+EXP-10062,2025-07-03,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,63011.63,72923.95,Over-budget Flag
+EXP-10063,2024-05-07,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,29972.73,30485.46,Approved with Variance
+EXP-10064,2025-01-22,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,24665.42,25122.79,Approved with Variance
+EXP-10065,2024-03-21,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,42988.73,49223.51,Approved with Variance
+EXP-10066,2025-07-19,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,14864.7,14054.74,Approved within Budget
+EXP-10067,2024-10-27,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,61153.79,54683.09,Approved within Budget
+EXP-10068,2026-04-29,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,10218.55,10135.26,Approved within Budget
+EXP-10069,2025-10-05,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,74082.09,71481.48,Approved within Budget
+EXP-10070,2025-09-25,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,59057.13,57198.2,Approved within Budget
+EXP-10071,2026-06-25,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,18910.1,17840.6,Approved within Budget
+EXP-10072,2026-06-01,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,5386.55,4669.26,Approved within Budget
+EXP-10073,2025-01-05,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,62082.3,53213.82,Approved within Budget
+EXP-10074,2025-08-14,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,54480.01,67832.46,Over-budget Flag
+EXP-10075,2024-07-15,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,56030.5,57213.26,Approved with Variance
+EXP-10076,2025-12-22,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,58988.92,59208.99,Approved with Variance
+EXP-10077,2024-03-12,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,10183.13,11424.04,Approved with Variance
+EXP-10078,2024-02-16,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,30092.6,28205.84,Approved within Budget
+EXP-10079,2025-11-08,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,13110.83,16126.12,Over-budget Flag
+EXP-10080,2024-08-21,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,65417.24,76180.86,Over-budget Flag
+EXP-10081,2026-03-02,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,48630.87,43075.49,Approved within Budget
+EXP-10082,2024-10-23,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,28162.86,28642.54,Approved with Variance
+EXP-10083,2024-03-22,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,9449.08,11354.46,Over-budget Flag
+EXP-10084,2026-05-25,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,26768.76,32869.17,Over-budget Flag
+EXP-10085,2024-08-26,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,27762.83,28788.96,Approved with Variance
+EXP-10086,2026-06-06,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,56072.43,61419.75,Approved with Variance
+EXP-10087,2024-04-13,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,49629.02,45500.56,Approved within Budget
+EXP-10088,2025-01-24,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,67104.89,83644.06,Over-budget Flag
+EXP-10089,2024-10-11,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,38055.04,35873.29,Approved within Budget
+EXP-10090,2025-04-09,IT Support & Operations,Cloud & Hosting,Developer Laptops,ServiceNow,13371.6,16408.19,Over-budget Flag
+EXP-10091,2025-10-12,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,54927.14,60961.36,Approved with Variance
+EXP-10092,2026-05-04,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,58254.95,63678.18,Approved with Variance
+EXP-10093,2025-01-08,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,44289.4,46728.66,Approved with Variance
+EXP-10094,2024-06-15,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,58967.7,55563.37,Approved within Budget
+EXP-10095,2025-01-14,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,39565.69,36424.62,Approved within Budget
+EXP-10096,2024-12-29,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,41591.3,39020.73,Approved within Budget
+EXP-10097,2024-08-02,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,34927.87,32293.45,Approved within Budget
+EXP-10098,2025-11-17,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,6779.34,7876.47,Over-budget Flag
+EXP-10099,2024-09-30,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,12552.4,12427.5,Approved within Budget
+EXP-10100,2025-12-19,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,7200.04,6286.62,Approved within Budget
+EXP-10101,2025-11-30,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Palo Alto Networks,49548.73,61323.54,Over-budget Flag
+EXP-10102,2025-10-25,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,27004.92,32500.81,Over-budget Flag
+EXP-10103,2024-03-14,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,40599.95,49576.64,Over-budget Flag
+EXP-10104,2025-09-15,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,68529.65,85522.48,Over-budget Flag
+EXP-10105,2025-10-12,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,22450.46,20644.5,Approved within Budget
+EXP-10106,2024-06-24,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,33726.8,34013.37,Approved with Variance
+EXP-10107,2025-06-30,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,57888.58,66762.63,Over-budget Flag
+EXP-10108,2026-01-16,Software Engineering,Cloud & Hosting,Docker Hub,Docker,21015.87,23714.48,Approved with Variance
+EXP-10109,2024-09-07,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,10388.59,9469.81,Approved within Budget
+EXP-10110,2024-06-16,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,25282.6,29740.76,Over-budget Flag
+EXP-10111,2025-04-18,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,16285.49,15304.72,Approved within Budget
+EXP-10112,2025-01-23,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,70078.84,65840.97,Approved within Budget
+EXP-10113,2024-10-03,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,61568.43,65557.43,Approved with Variance
+EXP-10114,2025-10-17,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,49338.26,53639.37,Approved with Variance
+EXP-10115,2025-12-05,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,66002.24,71416.7,Approved with Variance
+EXP-10116,2025-07-24,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,61257.05,54310.18,Approved within Budget
+EXP-10117,2024-08-12,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,18059.9,21689.66,Over-budget Flag
+EXP-10118,2025-12-02,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,67479.13,64526.24,Approved within Budget
+EXP-10119,2024-11-28,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,42753.96,38555.78,Approved within Budget
+EXP-10120,2026-05-13,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,61520.81,74163.29,Over-budget Flag
+EXP-10121,2026-02-25,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,67726.39,83456.56,Over-budget Flag
+EXP-10122,2026-03-05,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,27260.24,32571.93,Over-budget Flag
+EXP-10123,2024-02-27,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,12703.63,14911.6,Over-budget Flag
+EXP-10124,2024-08-22,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,20955.46,23304.5,Approved with Variance
+EXP-10125,2026-04-21,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,34897.55,37352.35,Approved with Variance
+EXP-10126,2024-02-02,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Zoom,62261.03,55088.23,Approved within Budget
+EXP-10127,2026-04-04,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,65251.14,66124.28,Approved with Variance
+EXP-10128,2024-11-19,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,5486.65,5481.58,Approved within Budget
+EXP-10129,2025-02-14,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,40752.31,38873.69,Approved within Budget
+EXP-10130,2024-10-01,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,34218.77,38987.77,Approved with Variance
+EXP-10131,2024-03-08,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,20547.55,21541.03,Approved with Variance
+EXP-10132,2024-08-04,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,13390.58,11816.1,Approved within Budget
+EXP-10133,2025-08-03,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,28633.06,26859.91,Approved within Budget
+EXP-10134,2026-06-16,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,71003.68,79758.68,Approved with Variance
+EXP-10135,2026-01-05,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,27624.21,24321.8,Approved within Budget
+EXP-10136,2024-11-18,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,41315.34,49185.2,Over-budget Flag
+EXP-10137,2024-08-05,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,54211.33,56816.65,Approved with Variance
+EXP-10138,2025-11-02,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,30454.07,31740.29,Approved with Variance
+EXP-10139,2025-05-26,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,73024.75,79375.21,Approved with Variance
+EXP-10140,2025-02-09,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,72371.31,85388.91,Over-budget Flag
+EXP-10141,2026-06-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,22624.76,22378.69,Approved within Budget
+EXP-10142,2025-10-20,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,39807.4,44632.31,Approved with Variance
+EXP-10143,2025-04-14,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,26061.48,28049.78,Approved with Variance
+EXP-10144,2024-05-26,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,24938.83,23861.75,Approved within Budget
+EXP-10145,2024-09-28,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,7582.09,9109.52,Over-budget Flag
+EXP-10146,2024-05-22,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,47669.5,55724.23,Over-budget Flag
+EXP-10147,2024-09-09,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,40187.53,44744.02,Approved with Variance
+EXP-10148,2026-02-01,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,8603.51,10240.18,Over-budget Flag
+EXP-10149,2025-07-28,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,24505.25,29330.77,Over-budget Flag
+EXP-10150,2025-07-05,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,68578.61,77723.24,Approved with Variance
+EXP-10151,2024-09-26,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,21769.33,25792.42,Over-budget Flag
+EXP-10152,2026-02-03,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,15142.64,17095.87,Approved with Variance
+EXP-10153,2025-08-21,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,39261.69,44053.83,Approved with Variance
+EXP-10154,2025-03-14,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,73995.53,81205.99,Approved with Variance
+EXP-10155,2025-08-20,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,21943.87,25259.3,Over-budget Flag
+EXP-10156,2025-02-12,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,52049.49,47544.19,Approved within Budget
+EXP-10157,2025-01-05,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,58313.37,70112.98,Over-budget Flag
+EXP-10158,2024-08-12,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,21634.63,25934.24,Over-budget Flag
+EXP-10159,2024-05-21,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,55975.14,48233.72,Approved within Budget
+EXP-10160,2025-06-05,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,30744.82,36288.93,Over-budget Flag
+EXP-10161,2025-05-20,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,49261.41,44411.52,Approved within Budget
+EXP-10162,2024-04-03,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,49347.08,48559.87,Approved within Budget
+EXP-10163,2026-02-12,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,42504.23,48769.49,Approved with Variance
+EXP-10164,2024-02-18,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,11320.28,10350.18,Approved within Budget
+EXP-10165,2026-05-31,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,63471.17,74717.42,Over-budget Flag
+EXP-10166,2024-04-22,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,27454.6,32474.77,Over-budget Flag
+EXP-10167,2024-06-05,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,18056.3,19013.05,Approved with Variance
+EXP-10168,2025-10-04,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,7854.26,6696.18,Approved within Budget
+EXP-10169,2024-06-12,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,46362.51,44731.26,Approved within Budget
+EXP-10170,2026-03-22,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,52429.51,57503.15,Approved with Variance
+EXP-10171,2025-11-27,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,6161.15,7655.07,Over-budget Flag
+EXP-10172,2025-03-08,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,40846.51,45042.48,Approved with Variance
+EXP-10173,2025-09-02,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,20854.7,19893.75,Approved within Budget
+EXP-10174,2024-03-06,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,50162.1,55359.01,Approved with Variance
+EXP-10175,2025-01-29,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,17205.65,18341.12,Approved with Variance
+EXP-10176,2025-01-25,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,53365.64,62007.57,Over-budget Flag
+EXP-10177,2025-09-02,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,32071.47,28633.16,Approved within Budget
+EXP-10178,2025-04-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,70571.1,81468.07,Over-budget Flag
+EXP-10179,2025-06-25,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,14626.47,15599.23,Approved with Variance
+EXP-10180,2024-09-14,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,28874.64,35665.86,Over-budget Flag
+EXP-10181,2025-07-20,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,12943.15,12771.64,Approved within Budget
+EXP-10182,2026-05-31,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,69728.55,76913.99,Approved with Variance
+EXP-10183,2024-01-12,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,66413.75,81211.48,Over-budget Flag
+EXP-10184,2025-11-27,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,23055.91,20542.91,Approved within Budget
+EXP-10185,2026-01-08,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,51198.88,62713.07,Over-budget Flag
+EXP-10186,2024-04-27,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,62205.55,69990.84,Approved with Variance
+EXP-10187,2025-11-29,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,43864.06,38474.69,Approved within Budget
+EXP-10188,2026-06-25,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,42075.54,40829.49,Approved within Budget
+EXP-10189,2025-07-03,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,21929.66,24852.2,Approved with Variance
+EXP-10190,2026-02-07,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,11517.19,10099.89,Approved within Budget
+EXP-10191,2024-09-30,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,67805.1,73423.99,Approved with Variance
+EXP-10192,2026-02-26,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,68029.26,67236.94,Approved within Budget
+EXP-10193,2025-10-18,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,49317.1,54168.24,Approved with Variance
+EXP-10194,2024-12-14,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,28732.09,24947.98,Approved within Budget
+EXP-10195,2024-04-24,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,29444.67,35292.81,Over-budget Flag
+EXP-10196,2024-10-27,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,55816.9,69179.22,Over-budget Flag
+EXP-10197,2025-03-21,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,67797.72,83903.15,Over-budget Flag
+EXP-10198,2024-06-10,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,67096.05,77151.11,Approved with Variance
+EXP-10199,2025-04-09,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,59591.29,53753.4,Approved within Budget
+EXP-10200,2024-01-04,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,49942.22,57598.63,Over-budget Flag
+EXP-10201,2026-01-09,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,10889.8,9363.43,Approved within Budget
+EXP-10202,2026-06-15,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,16314.01,14011.28,Approved within Budget
+EXP-10203,2026-01-06,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,67898.79,66503.07,Approved within Budget
+EXP-10204,2024-09-26,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,47450.03,49606.98,Approved with Variance
+EXP-10205,2025-05-27,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,5643.79,6536.43,Over-budget Flag
+EXP-10206,2026-02-19,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,12103.01,13595.53,Approved with Variance
+EXP-10207,2024-07-01,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,51445.12,52904.16,Approved with Variance
+EXP-10208,2025-06-03,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,5354.31,5137.2,Approved within Budget
+EXP-10209,2024-04-18,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,16256.56,20302.0,Over-budget Flag
+EXP-10210,2026-06-10,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,43411.37,44300.11,Approved with Variance
+EXP-10211,2025-10-02,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,53432.66,55065.28,Approved with Variance
+EXP-10212,2024-11-01,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,50637.29,46355.88,Approved within Budget
+EXP-10213,2026-05-11,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,20698.85,24174.68,Over-budget Flag
+EXP-10214,2025-10-16,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,54852.55,61844.76,Approved with Variance
+EXP-10215,2025-06-03,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,21607.44,20274.43,Approved within Budget
+EXP-10216,2025-09-15,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,27777.98,24526.63,Approved within Budget
+EXP-10217,2024-07-22,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,57254.4,64250.87,Approved with Variance
+EXP-10218,2024-06-05,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,50474.3,56117.55,Approved with Variance
+EXP-10219,2025-01-17,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,64445.64,61822.95,Approved within Budget
+EXP-10220,2026-02-19,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,51032.9,62788.1,Over-budget Flag
+EXP-10221,2024-06-14,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,44781.6,40770.21,Approved within Budget
+EXP-10222,2025-07-06,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,11557.23,11822.28,Approved with Variance
+EXP-10223,2026-03-08,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,30740.11,37731.84,Over-budget Flag
+EXP-10224,2025-06-27,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,23564.17,23985.75,Approved with Variance
+EXP-10225,2024-01-01,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,22079.28,24406.67,Approved with Variance
+EXP-10226,2025-09-05,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,73110.74,73771.5,Approved with Variance
+EXP-10227,2024-11-27,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,32516.84,31205.96,Approved within Budget
+EXP-10228,2025-05-15,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,67443.26,83871.84,Over-budget Flag
+EXP-10229,2024-01-20,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,49179.7,49855.11,Approved with Variance
+EXP-10230,2024-04-24,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,60636.79,73227.39,Over-budget Flag
+EXP-10231,2025-01-06,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,40184.6,37853.16,Approved within Budget
+EXP-10232,2026-06-18,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,45383.27,42444.33,Approved within Budget
+EXP-10233,2026-05-01,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,39476.24,34046.43,Approved within Budget
+EXP-10234,2026-04-06,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,18667.01,20732.83,Approved with Variance
+EXP-10235,2024-11-10,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,55571.65,55427.75,Approved within Budget
+EXP-10236,2024-09-02,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,24654.07,29479.94,Over-budget Flag
+EXP-10237,2024-02-29,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,6702.12,6965.41,Approved with Variance
+EXP-10238,2024-09-03,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,50183.06,62090.36,Over-budget Flag
+EXP-10239,2026-06-18,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,17397.75,16079.18,Approved within Budget
+EXP-10240,2025-08-03,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,70832.1,84817.85,Over-budget Flag
+EXP-10241,2024-03-21,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,71775.0,83304.85,Over-budget Flag
+EXP-10242,2024-03-28,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,69040.51,79974.37,Over-budget Flag
+EXP-10243,2026-01-19,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,30911.11,36719.72,Over-budget Flag
+EXP-10244,2025-05-12,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,6081.96,7021.07,Over-budget Flag
+EXP-10245,2026-04-15,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,69982.3,77014.69,Approved with Variance
+EXP-10246,2024-03-11,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,34972.89,31562.96,Approved within Budget
+EXP-10247,2026-02-17,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,72665.84,62711.38,Approved within Budget
+EXP-10248,2025-06-29,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,72453.4,88272.81,Over-budget Flag
+EXP-10249,2026-02-23,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,64710.66,70965.6,Approved with Variance
+EXP-10250,2024-05-08,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,25611.42,29929.89,Over-budget Flag
+EXP-10251,2024-05-11,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,31956.84,33318.49,Approved with Variance
+EXP-10252,2025-11-06,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,64579.57,57922.92,Approved within Budget
+EXP-10253,2025-05-01,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,27184.54,24468.11,Approved within Budget
+EXP-10254,2025-07-16,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,16864.49,18959.5,Approved with Variance
+EXP-10255,2024-06-18,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,43976.09,44948.94,Approved with Variance
+EXP-10256,2024-09-28,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,70530.83,65608.48,Approved within Budget
+EXP-10257,2025-06-24,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,53722.09,56227.57,Approved with Variance
+EXP-10258,2026-06-12,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,44904.28,39321.94,Approved within Budget
+EXP-10259,2025-09-13,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,11802.35,12779.45,Approved with Variance
+EXP-10260,2025-03-09,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,48050.51,46013.04,Approved within Budget
+EXP-10261,2024-08-04,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,74303.77,86862.86,Over-budget Flag
+EXP-10262,2025-07-06,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,14805.88,14423.07,Approved within Budget
+EXP-10263,2026-02-12,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,41283.08,42607.77,Approved with Variance
+EXP-10264,2026-01-17,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,66416.12,56762.42,Approved within Budget
+EXP-10265,2025-12-07,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,56853.8,49973.28,Approved within Budget
+EXP-10266,2024-07-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,53791.1,54167.5,Approved with Variance
+EXP-10267,2025-12-31,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,54173.89,56447.87,Approved with Variance
+EXP-10268,2024-11-15,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,30164.38,32879.42,Approved with Variance
+EXP-10269,2025-02-12,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,25551.43,24699.67,Approved within Budget
+EXP-10270,2025-11-18,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,61655.28,69546.71,Approved with Variance
+EXP-10271,2025-10-27,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,61707.94,73682.3,Over-budget Flag
+EXP-10272,2025-01-17,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,65695.06,76333.74,Over-budget Flag
+EXP-10273,2025-03-24,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,68926.84,59680.13,Approved within Budget
+EXP-10274,2025-06-13,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,40793.97,42515.59,Approved with Variance
+EXP-10275,2025-04-07,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,40106.14,35773.56,Approved within Budget
+EXP-10276,2024-05-03,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,60880.66,57642.91,Approved within Budget
+EXP-10277,2024-09-10,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,50497.48,62852.45,Over-budget Flag
+EXP-10278,2024-08-18,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,54137.68,49102.78,Approved within Budget
+EXP-10279,2024-03-06,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,60705.49,63713.77,Approved with Variance
+EXP-10280,2024-12-12,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,67300.37,73846.16,Approved with Variance
+EXP-10281,2024-01-22,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,28659.66,32413.67,Approved with Variance
+EXP-10282,2025-08-25,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,31290.81,33601.93,Approved with Variance
+EXP-10283,2025-07-21,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,11578.74,9887.18,Approved within Budget
+EXP-10284,2024-08-23,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,45479.61,44596.6,Approved within Budget
+EXP-10285,2025-08-25,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,7515.96,7945.01,Approved with Variance
+EXP-10286,2024-08-13,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,37591.86,33274.31,Approved within Budget
+EXP-10287,2024-01-08,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,42985.12,42566.05,Approved within Budget
+EXP-10288,2024-03-13,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,25057.89,21632.01,Approved within Budget
+EXP-10289,2025-12-25,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,46358.33,40861.69,Approved within Budget
+EXP-10290,2025-10-08,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,7135.02,7197.59,Approved with Variance
+EXP-10291,2024-03-01,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,7614.37,6876.43,Approved within Budget
+EXP-10292,2024-08-22,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,62582.04,67401.88,Approved with Variance
+EXP-10293,2024-03-10,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,30213.34,34013.75,Approved with Variance
+EXP-10294,2024-02-02,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,13894.24,16259.52,Over-budget Flag
+EXP-10295,2026-05-30,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,41557.03,38650.54,Approved within Budget
+EXP-10296,2024-12-04,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,58899.55,54010.48,Approved within Budget
+EXP-10297,2024-03-13,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,20107.47,17932.39,Approved within Budget
+EXP-10298,2025-06-10,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,48602.33,53684.78,Approved with Variance
+EXP-10299,2024-08-31,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,10974.32,12429.41,Approved with Variance
+EXP-10300,2024-10-12,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,8617.72,7433.94,Approved within Budget
+EXP-10301,2025-11-16,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,42194.82,51666.92,Over-budget Flag
+EXP-10302,2025-05-12,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,42844.46,37308.46,Approved within Budget
+EXP-10303,2024-08-07,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,49620.09,52920.75,Approved with Variance
+EXP-10304,2025-07-06,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,55826.39,63286.15,Approved with Variance
+EXP-10305,2024-05-15,Software Engineering,Cloud & Hosting,Docker Hub,Docker,73309.65,87853.38,Over-budget Flag
+EXP-10306,2026-01-10,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,41141.02,46721.17,Approved with Variance
+EXP-10307,2026-06-22,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Apple,27606.95,32319.21,Over-budget Flag
+EXP-10308,2025-08-07,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,60663.03,59800.41,Approved within Budget
+EXP-10309,2025-08-13,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,23958.26,28173.24,Over-budget Flag
+EXP-10310,2025-04-29,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,35728.0,31513.74,Approved within Budget
+EXP-10311,2024-09-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,10491.95,12673.51,Over-budget Flag
+EXP-10312,2026-03-14,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,6774.55,7242.24,Approved with Variance
+EXP-10313,2025-04-29,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,72385.39,85191.75,Over-budget Flag
+EXP-10314,2026-04-06,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,63518.61,65483.07,Approved with Variance
+EXP-10315,2025-02-20,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,53718.19,59489.19,Approved with Variance
+EXP-10316,2024-07-13,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,33626.71,35663.18,Approved with Variance
+EXP-10317,2024-04-06,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,17130.6,19574.04,Approved with Variance
+EXP-10318,2024-04-09,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,15950.59,14078.82,Approved within Budget
+EXP-10319,2025-11-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,22517.0,19683.03,Approved within Budget
+EXP-10320,2025-03-17,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,43445.87,41223.24,Approved within Budget
+EXP-10321,2024-12-28,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,55021.71,50279.82,Approved within Budget
+EXP-10322,2025-03-09,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,51213.82,61390.69,Over-budget Flag
+EXP-10323,2025-02-24,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,24595.37,23062.72,Approved within Budget
+EXP-10324,2025-04-23,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,71840.57,89107.17,Over-budget Flag
+EXP-10325,2026-06-03,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,56652.78,55789.3,Approved within Budget
+EXP-10326,2026-01-16,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,43804.78,40425.12,Approved within Budget
+EXP-10327,2024-02-25,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,47820.45,55752.88,Over-budget Flag
+EXP-10328,2025-11-20,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Zoom,34372.0,38272.64,Approved with Variance
+EXP-10329,2025-10-31,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,22341.17,23442.1,Approved with Variance
+EXP-10330,2025-10-23,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,29918.09,32076.54,Approved with Variance
+EXP-10331,2024-04-10,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,58049.23,66041.49,Approved with Variance
+EXP-10332,2024-03-03,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,6007.54,5655.39,Approved within Budget
+EXP-10333,2025-02-16,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,13125.08,16387.1,Over-budget Flag
+EXP-10334,2026-01-15,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,8220.18,10192.34,Over-budget Flag
+EXP-10335,2024-12-13,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,7851.02,8715.65,Approved with Variance
+EXP-10336,2026-03-30,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,64882.24,60328.61,Approved within Budget
+EXP-10337,2026-06-01,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,54256.05,60880.24,Approved with Variance
+EXP-10338,2024-04-21,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,38192.17,33566.31,Approved within Budget
+EXP-10339,2024-09-11,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,11848.39,10216.4,Approved within Budget
+EXP-10340,2024-07-15,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,39413.11,37563.58,Approved within Budget
+EXP-10341,2024-07-13,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,38143.02,39479.9,Approved with Variance
+EXP-10342,2025-07-03,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,17124.13,20502.88,Over-budget Flag
+EXP-10343,2025-04-04,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,35369.62,40352.05,Approved with Variance
+EXP-10344,2024-05-23,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,32895.33,37733.66,Approved with Variance
+EXP-10345,2025-03-08,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,48109.51,49081.19,Approved with Variance
+EXP-10346,2024-07-06,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,49456.56,48881.58,Approved within Budget
+EXP-10347,2024-10-12,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,8171.28,8158.33,Approved within Budget
+EXP-10348,2025-04-18,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,31222.88,38874.35,Over-budget Flag
+EXP-10349,2024-09-12,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,48810.19,42271.76,Approved within Budget
+EXP-10350,2026-06-14,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,40219.54,48135.25,Over-budget Flag
+EXP-10351,2024-03-18,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,64954.29,70246.13,Approved with Variance
+EXP-10352,2025-03-29,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,51108.55,52409.07,Approved with Variance
+EXP-10353,2026-04-07,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,16405.41,18703.86,Approved with Variance
+EXP-10354,2026-06-01,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,9939.81,10383.8,Approved with Variance
+EXP-10355,2026-05-26,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,49969.35,59931.7,Over-budget Flag
+EXP-10356,2025-07-17,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,6855.79,8297.43,Over-budget Flag
+EXP-10357,2024-04-10,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Zoom,46004.29,46864.04,Approved with Variance
+EXP-10358,2024-02-21,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,70816.12,68035.25,Approved within Budget
+EXP-10359,2025-10-29,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,45283.19,49220.12,Approved with Variance
+EXP-10360,2025-07-07,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,32171.89,39087.09,Over-budget Flag
+EXP-10361,2026-05-06,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,50030.18,46741.44,Approved within Budget
+EXP-10362,2024-01-16,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,37077.7,40755.31,Approved with Variance
+EXP-10363,2024-04-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,43193.18,47625.84,Approved with Variance
+EXP-10364,2026-02-10,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,70902.54,81058.99,Approved with Variance
+EXP-10365,2026-05-19,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,32027.18,28908.6,Approved within Budget
+EXP-10366,2024-08-30,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,72283.34,82137.73,Approved with Variance
+EXP-10367,2024-06-19,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,68374.54,82980.23,Over-budget Flag
+EXP-10368,2025-02-20,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,18705.38,17243.99,Approved within Budget
+EXP-10369,2025-05-12,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,9855.29,9313.42,Approved within Budget
+EXP-10370,2025-05-07,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,12054.46,14930.15,Over-budget Flag
+EXP-10371,2024-08-06,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,6275.53,5788.49,Approved within Budget
+EXP-10372,2026-06-04,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,11611.01,13837.47,Over-budget Flag
+EXP-10373,2025-02-14,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,52810.47,55287.87,Approved with Variance
+EXP-10374,2024-03-01,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,9983.21,9472.99,Approved within Budget
+EXP-10375,2024-06-17,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,27328.29,32747.49,Over-budget Flag
+EXP-10376,2025-01-23,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,64141.27,65945.06,Approved with Variance
+EXP-10377,2024-01-03,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,6629.04,6999.78,Approved with Variance
+EXP-10378,2025-02-03,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,62012.79,61621.7,Approved within Budget
+EXP-10379,2024-09-28,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,24729.83,26885.79,Approved with Variance
+EXP-10380,2026-03-13,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,13271.54,12148.89,Approved within Budget
+EXP-10381,2026-03-14,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,53771.6,54117.49,Approved with Variance
+EXP-10382,2025-04-10,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,49026.0,60682.66,Over-budget Flag
+EXP-10383,2024-10-19,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,66423.04,63317.99,Approved within Budget
+EXP-10384,2025-03-09,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,56454.97,62817.14,Approved with Variance
+EXP-10385,2025-12-14,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,61243.67,60023.45,Approved within Budget
+EXP-10386,2026-01-18,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,24742.42,28686.1,Over-budget Flag
+EXP-10387,2026-03-13,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,17420.77,15719.62,Approved within Budget
+EXP-10388,2025-07-23,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,57543.03,71234.15,Over-budget Flag
+EXP-10389,2025-11-08,IT Support & Operations,Cloud & Hosting,Developer Laptops,ServiceNow,61478.43,63415.97,Approved with Variance
+EXP-10390,2026-01-05,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,74335.36,70203.81,Approved within Budget
+EXP-10391,2025-05-13,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,33883.24,29796.88,Approved within Budget
+EXP-10392,2024-06-07,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,31041.27,28492.88,Approved within Budget
+EXP-10393,2024-07-13,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,59348.91,62785.78,Approved with Variance
+EXP-10394,2024-10-30,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,28856.25,28417.67,Approved within Budget
+EXP-10395,2024-08-10,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,70153.01,82889.52,Over-budget Flag
+EXP-10396,2024-02-29,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,65088.89,66543.95,Approved with Variance
+EXP-10397,2025-08-16,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,35029.58,33260.09,Approved within Budget
+EXP-10398,2026-01-23,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,57560.97,63136.21,Approved with Variance
+EXP-10399,2025-07-09,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,57818.0,65491.08,Approved with Variance
+EXP-10400,2024-03-03,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,12218.67,11202.28,Approved within Budget
+EXP-10401,2026-02-04,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,68178.7,62523.12,Approved within Budget
+EXP-10402,2024-11-17,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,40367.67,34904.66,Approved within Budget
+EXP-10403,2024-02-28,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,62852.02,71937.96,Approved with Variance
+EXP-10404,2024-02-21,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,27403.47,30569.17,Approved with Variance
+EXP-10405,2025-08-21,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,67686.63,70384.1,Approved with Variance
+EXP-10406,2025-05-03,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,32244.12,38295.32,Over-budget Flag
+EXP-10407,2025-05-29,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,5758.64,6750.67,Over-budget Flag
+EXP-10408,2026-05-23,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,68376.74,74130.08,Approved with Variance
+EXP-10409,2025-06-27,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,11390.07,13637.43,Over-budget Flag
+EXP-10410,2024-06-10,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,27351.95,25501.22,Approved within Budget
+EXP-10411,2024-02-28,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Zoom,71504.34,63979.78,Approved within Budget
+EXP-10412,2025-06-04,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,71542.5,68530.55,Approved within Budget
+EXP-10413,2024-03-23,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,45140.65,39400.33,Approved within Budget
+EXP-10414,2026-05-21,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,49228.6,52303.8,Approved with Variance
+EXP-10415,2024-07-09,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,36391.19,44566.19,Over-budget Flag
+EXP-10416,2024-03-11,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,25524.75,22097.73,Approved within Budget
+EXP-10417,2025-09-01,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,28006.52,25173.49,Approved within Budget
+EXP-10418,2024-03-10,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,52076.29,53684.39,Approved with Variance
+EXP-10419,2025-11-22,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,57666.22,70557.5,Over-budget Flag
+EXP-10420,2026-06-01,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,60410.53,58988.61,Approved within Budget
+EXP-10421,2024-08-28,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,60273.27,63461.36,Approved with Variance
+EXP-10422,2025-02-17,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,11384.43,9866.08,Approved within Budget
+EXP-10423,2024-05-02,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,39609.42,36018.32,Approved within Budget
+EXP-10424,2026-06-30,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,9029.11,11238.1,Over-budget Flag
+EXP-10425,2025-08-06,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,43467.02,53727.3,Over-budget Flag
+EXP-10426,2024-09-09,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,35907.14,30592.02,Approved within Budget
+EXP-10427,2025-08-15,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,67139.29,82629.98,Over-budget Flag
+EXP-10428,2025-08-31,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,29564.05,32687.43,Approved with Variance
+EXP-10429,2024-02-10,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,13194.69,15796.25,Over-budget Flag
+EXP-10430,2025-09-26,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,15009.42,15488.16,Approved with Variance
+EXP-10431,2024-03-24,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,58305.74,61584.76,Approved with Variance
+EXP-10432,2025-03-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,48275.26,50473.65,Approved with Variance
+EXP-10433,2025-11-04,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,12078.59,13488.71,Approved with Variance
+EXP-10434,2025-08-20,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,10887.48,9862.54,Approved within Budget
+EXP-10435,2025-08-01,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,54067.84,46605.91,Approved within Budget
+EXP-10436,2025-06-19,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,10093.41,9822.62,Approved within Budget
+EXP-10437,2024-11-19,IT Support & Operations,Cloud & Hosting,Developer Laptops,ServiceNow,62530.2,70776.2,Approved with Variance
+EXP-10438,2024-09-24,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,54436.96,50666.73,Approved within Budget
+EXP-10439,2024-07-28,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Apple,10694.41,11971.03,Approved with Variance
+EXP-10440,2025-11-16,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,10938.64,13541.65,Over-budget Flag
+EXP-10441,2026-01-03,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,74064.77,65736.95,Approved within Budget
+EXP-10442,2024-11-17,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,31198.96,34912.91,Approved with Variance
+EXP-10443,2024-09-01,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,30944.95,31795.94,Approved with Variance
+EXP-10444,2024-09-28,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,61895.97,74105.38,Over-budget Flag
+EXP-10445,2025-02-09,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,71307.4,65664.13,Approved within Budget
+EXP-10446,2024-05-14,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,74020.07,83424.35,Approved with Variance
+EXP-10447,2025-11-18,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,57736.47,68431.93,Over-budget Flag
+EXP-10448,2025-10-22,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,31338.17,38478.44,Over-budget Flag
+EXP-10449,2024-11-03,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,10845.05,12182.24,Approved with Variance
+EXP-10450,2025-04-13,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,59400.28,62303.17,Approved with Variance
+EXP-10451,2024-11-19,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,44088.3,48370.99,Approved with Variance
+EXP-10452,2026-02-08,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,34695.54,41550.06,Over-budget Flag
+EXP-10453,2024-03-15,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,68444.81,73800.2,Approved with Variance
+EXP-10454,2024-01-10,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,12783.82,11021.63,Approved within Budget
+EXP-10455,2025-04-14,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,39483.76,48264.14,Over-budget Flag
+EXP-10456,2025-09-28,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,5794.76,6523.8,Approved with Variance
+EXP-10457,2025-07-30,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,37806.24,42365.87,Approved with Variance
+EXP-10458,2024-04-12,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,8941.23,8371.41,Approved within Budget
+EXP-10459,2024-03-16,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,13317.25,14829.48,Approved with Variance
+EXP-10460,2025-07-04,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,13226.84,13326.65,Approved with Variance
+EXP-10461,2024-08-06,Software Engineering,Cloud & Hosting,Docker Hub,Docker,50444.72,56018.52,Approved with Variance
+EXP-10462,2025-06-02,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,57223.14,51079.5,Approved within Budget
+EXP-10463,2024-09-28,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,45835.81,51021.59,Approved with Variance
+EXP-10464,2024-05-15,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,72352.08,90423.13,Over-budget Flag
+EXP-10465,2024-12-23,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,31240.94,27157.27,Approved within Budget
+EXP-10466,2026-06-21,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,24999.85,31021.56,Over-budget Flag
+EXP-10467,2024-03-11,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Zoom,65801.94,66641.78,Approved with Variance
+EXP-10468,2026-06-19,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,20651.71,24746.97,Over-budget Flag
+EXP-10469,2024-09-07,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,72425.58,84227.63,Over-budget Flag
+EXP-10470,2025-01-13,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,5850.81,6300.19,Approved with Variance
+EXP-10471,2024-10-18,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,72891.52,83488.47,Approved with Variance
+EXP-10472,2024-06-10,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,8021.19,9636.71,Over-budget Flag
+EXP-10473,2025-03-24,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,67380.02,68165.41,Approved with Variance
+EXP-10474,2026-05-03,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,41939.08,41134.41,Approved within Budget
+EXP-10475,2025-07-10,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,74507.54,83227.71,Approved with Variance
+EXP-10476,2025-12-21,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,10165.76,11925.84,Over-budget Flag
+EXP-10477,2024-11-05,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,43769.8,50550.36,Over-budget Flag
+EXP-10478,2025-09-18,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,72851.18,85172.17,Over-budget Flag
+EXP-10479,2026-04-06,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,41616.85,42625.36,Approved with Variance
+EXP-10480,2025-10-31,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,49057.9,57747.71,Over-budget Flag
+EXP-10481,2025-06-25,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,53702.41,48229.25,Approved within Budget
+EXP-10482,2024-01-09,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,36817.87,39313.96,Approved with Variance
+EXP-10483,2025-11-14,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,48929.07,41702.42,Approved within Budget
+EXP-10484,2026-04-16,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,45902.0,44976.36,Approved within Budget
+EXP-10485,2025-07-21,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,68081.06,67848.54,Approved within Budget
+EXP-10486,2024-11-02,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,8181.25,8250.54,Approved with Variance
+EXP-10487,2025-11-10,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,24667.42,27829.46,Approved with Variance
+EXP-10488,2024-04-16,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,71528.8,71916.72,Approved with Variance
+EXP-10489,2026-06-18,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,67318.46,69302.84,Approved with Variance
+EXP-10490,2024-05-17,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,36895.97,34867.34,Approved within Budget
+EXP-10491,2024-09-27,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,48409.28,48375.43,Approved within Budget
+EXP-10492,2024-04-28,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,24416.68,22973.85,Approved within Budget
+EXP-10493,2026-06-30,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,18168.48,15975.15,Approved within Budget
+EXP-10494,2024-04-19,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,37458.89,40881.86,Approved with Variance
+EXP-10495,2026-01-30,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,29734.66,33222.09,Approved with Variance
+EXP-10496,2025-07-20,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,45855.93,50340.46,Approved with Variance
+EXP-10497,2024-06-08,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,10441.42,10811.02,Approved with Variance
+EXP-10498,2024-10-05,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,73207.64,73347.78,Approved with Variance
+EXP-10499,2024-10-15,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,74034.75,88496.21,Over-budget Flag
+EXP-10500,2025-09-11,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,53871.32,56976.07,Approved with Variance
+EXP-10501,2024-08-03,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,42526.75,44298.96,Approved with Variance
+EXP-10502,2026-01-04,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,26666.93,22940.41,Approved within Budget
+EXP-10503,2024-12-17,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,61965.65,61129.06,Approved within Budget
+EXP-10504,2024-07-27,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,52931.18,53041.18,Approved with Variance
+EXP-10505,2025-12-04,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,16383.19,16539.31,Approved with Variance
+EXP-10506,2025-10-11,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,68764.9,74408.36,Approved with Variance
+EXP-10507,2026-05-23,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,62577.61,66547.6,Approved with Variance
+EXP-10508,2024-09-27,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,71485.99,78145.77,Approved with Variance
+EXP-10509,2025-06-01,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Palo Alto Networks,55800.37,64502.62,Over-budget Flag
+EXP-10510,2025-05-15,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,47939.06,56337.71,Over-budget Flag
+EXP-10511,2024-09-14,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,34277.01,38981.5,Approved with Variance
+EXP-10512,2026-05-16,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,70290.99,86613.22,Over-budget Flag
+EXP-10513,2024-02-22,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,65624.47,56259.4,Approved within Budget
+EXP-10514,2024-04-04,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,8165.31,7579.95,Approved within Budget
+EXP-10515,2025-10-11,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,6845.69,5839.55,Approved within Budget
+EXP-10516,2025-03-09,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,31352.44,34769.54,Approved with Variance
+EXP-10517,2026-04-29,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,61738.73,74655.23,Over-budget Flag
+EXP-10518,2024-10-10,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,74109.33,70210.65,Approved within Budget
+EXP-10519,2024-02-15,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,15529.18,18958.24,Over-budget Flag
+EXP-10520,2024-01-04,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,46589.15,40723.9,Approved within Budget
+EXP-10521,2024-12-07,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,31662.36,38747.59,Over-budget Flag
+EXP-10522,2026-02-28,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,72894.01,72212.38,Approved within Budget
+EXP-10523,2024-05-13,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,63948.32,56950.35,Approved within Budget
+EXP-10524,2025-10-14,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,63683.01,66507.27,Approved with Variance
+EXP-10525,2024-09-25,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,37808.52,36020.58,Approved within Budget
+EXP-10526,2024-06-14,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,34037.37,32810.29,Approved within Budget
+EXP-10527,2026-01-29,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,24138.5,23484.73,Approved within Budget
+EXP-10528,2025-03-28,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,8946.28,10477.98,Over-budget Flag
+EXP-10529,2025-07-18,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,65530.57,69833.6,Approved with Variance
+EXP-10530,2025-12-23,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,61903.07,60325.97,Approved within Budget
+EXP-10531,2025-03-13,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,74980.24,82038.39,Approved with Variance
+EXP-10532,2025-07-28,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,74764.58,84966.97,Approved with Variance
+EXP-10533,2024-01-10,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,43880.22,42083.31,Approved within Budget
+EXP-10534,2024-04-24,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,58829.12,59736.24,Approved with Variance
+EXP-10535,2024-03-18,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,71133.6,63931.64,Approved within Budget
+EXP-10536,2026-06-23,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,64475.32,59475.89,Approved within Budget
+EXP-10537,2025-12-08,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,22314.37,25046.7,Approved with Variance
+EXP-10538,2024-06-01,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,36538.09,33709.14,Approved within Budget
+EXP-10539,2025-07-12,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,14041.16,14884.55,Approved with Variance
+EXP-10540,2024-02-06,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,71783.57,81375.18,Approved with Variance
+EXP-10541,2026-05-04,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,47432.22,42345.15,Approved within Budget
+EXP-10542,2025-01-13,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,21005.0,22620.81,Approved with Variance
+EXP-10543,2025-08-19,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,52019.05,49554.65,Approved within Budget
+EXP-10544,2025-07-19,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,48268.98,59620.43,Over-budget Flag
+EXP-10545,2024-05-31,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,30071.39,31377.04,Approved with Variance
+EXP-10546,2025-03-16,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,12949.03,15181.4,Over-budget Flag
+EXP-10547,2024-05-10,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,52010.12,55655.54,Approved with Variance
+EXP-10548,2024-02-12,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,41421.54,35927.59,Approved within Budget
+EXP-10549,2024-11-11,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,59062.29,65161.09,Approved with Variance
+EXP-10550,2025-01-08,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,41411.45,50959.33,Over-budget Flag
+EXP-10551,2026-03-26,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,64652.71,70513.14,Approved with Variance
+EXP-10552,2026-05-31,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,43633.48,51386.08,Over-budget Flag
+EXP-10553,2024-02-10,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,44265.66,53281.8,Over-budget Flag
+EXP-10554,2025-01-01,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,66365.75,62465.56,Approved within Budget
+EXP-10555,2024-08-03,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,33243.8,31076.9,Approved within Budget
+EXP-10556,2025-11-29,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,14381.07,15738.53,Approved with Variance
+EXP-10557,2024-09-12,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,7014.79,7115.88,Approved with Variance
+EXP-10558,2025-11-13,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,57859.61,68618.29,Over-budget Flag
+EXP-10559,2024-04-15,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,48421.67,58590.67,Over-budget Flag
+EXP-10560,2024-12-28,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,54285.58,53817.02,Approved within Budget
+EXP-10561,2026-03-09,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Palo Alto Networks,19907.49,18807.57,Approved within Budget
+EXP-10562,2025-07-27,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,14546.0,16905.51,Over-budget Flag
+EXP-10563,2026-06-24,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,6018.13,5776.94,Approved within Budget
+EXP-10564,2026-06-14,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,29541.13,34830.34,Over-budget Flag
+EXP-10565,2025-02-20,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,46294.24,47196.76,Approved with Variance
+EXP-10566,2025-09-27,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,32457.08,36255.21,Approved with Variance
+EXP-10567,2026-02-06,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,35623.24,31641.06,Approved within Budget
+EXP-10568,2024-06-07,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,68291.11,75089.06,Approved with Variance
+EXP-10569,2024-08-30,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Fivetran,29377.88,30279.99,Approved with Variance
+EXP-10570,2026-06-04,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,40979.26,44447.88,Approved with Variance
+EXP-10571,2024-06-15,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,59855.71,54900.0,Approved within Budget
+EXP-10572,2026-03-30,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,32757.99,37499.69,Approved with Variance
+EXP-10573,2026-04-10,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,48546.07,58018.32,Over-budget Flag
+EXP-10574,2024-06-30,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,65365.46,61227.56,Approved within Budget
+EXP-10575,2026-06-21,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,71466.44,63482.63,Approved within Budget
+EXP-10576,2025-02-26,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,15295.14,13145.49,Approved within Budget
+EXP-10577,2024-01-26,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,69861.13,77321.5,Approved with Variance
+EXP-10578,2024-07-02,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,39448.14,43110.41,Approved with Variance
+EXP-10579,2026-01-24,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,23077.11,24662.02,Approved with Variance
+EXP-10580,2024-12-06,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,37139.5,35014.33,Approved within Budget
+EXP-10581,2026-03-12,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,73602.28,74070.57,Approved with Variance
+EXP-10582,2025-02-25,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,39483.27,42949.53,Approved with Variance
+EXP-10583,2026-04-01,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,28012.61,29377.01,Approved with Variance
+EXP-10584,2025-11-16,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,49338.06,61431.52,Over-budget Flag
+EXP-10585,2026-06-03,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,21810.19,19728.97,Approved within Budget
+EXP-10586,2026-01-22,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,10310.43,11630.76,Approved with Variance
+EXP-10587,2026-04-10,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,14021.58,14186.02,Approved with Variance
+EXP-10588,2024-09-11,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,13963.21,14260.34,Approved with Variance
+EXP-10589,2024-09-30,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,15633.19,17775.55,Approved with Variance
+EXP-10590,2024-06-12,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,14717.9,16586.7,Approved with Variance
+EXP-10591,2026-03-17,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,49861.23,62152.14,Over-budget Flag
+EXP-10592,2025-12-19,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,17731.61,15982.52,Approved within Budget
+EXP-10593,2024-04-20,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,29196.71,26033.07,Approved within Budget
+EXP-10594,2025-01-26,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,67775.19,77245.79,Approved with Variance
+EXP-10595,2026-06-12,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,38177.31,41283.22,Approved with Variance
+EXP-10596,2024-02-09,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,51729.04,49642.51,Approved within Budget
+EXP-10597,2026-05-29,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,17062.39,15045.07,Approved within Budget
+EXP-10598,2025-04-26,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,18460.23,16323.7,Approved within Budget
+EXP-10599,2024-08-15,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,7860.8,9493.3,Over-budget Flag
+EXP-10600,2024-07-23,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,16825.45,15592.93,Approved within Budget
+EXP-10601,2026-04-16,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,24501.32,23995.33,Approved within Budget
+EXP-10602,2025-04-16,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,17390.73,16358.81,Approved within Budget
+EXP-10603,2024-12-24,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Apple,11209.18,11119.49,Approved within Budget
+EXP-10604,2024-11-08,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,13444.51,11801.18,Approved within Budget
+EXP-10605,2026-04-20,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,37254.51,39401.26,Approved with Variance
+EXP-10606,2026-03-25,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,19443.36,17052.7,Approved within Budget
+EXP-10607,2026-06-11,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,30498.89,35688.05,Over-budget Flag
+EXP-10608,2024-08-21,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,40239.21,37965.08,Approved within Budget
+EXP-10609,2024-08-16,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,53327.64,56847.52,Approved with Variance
+EXP-10610,2024-01-25,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,7751.85,9317.97,Over-budget Flag
+EXP-10611,2025-11-06,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,60958.73,67685.58,Approved with Variance
+EXP-10612,2024-07-16,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,48953.03,52046.03,Approved with Variance
+EXP-10613,2025-02-12,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,10723.13,10505.81,Approved within Budget
+EXP-10614,2024-12-02,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,66150.5,65039.22,Approved within Budget
+EXP-10615,2024-10-12,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,69461.07,77643.22,Approved with Variance
+EXP-10616,2026-06-04,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,9275.46,11572.58,Over-budget Flag
+EXP-10617,2024-03-12,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,24381.44,27178.86,Approved with Variance
+EXP-10618,2026-03-02,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,61434.09,65925.74,Approved with Variance
+EXP-10619,2024-10-12,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,57378.18,65540.81,Approved with Variance
+EXP-10620,2024-12-25,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,17916.47,18562.94,Approved with Variance
+EXP-10621,2025-10-18,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Microsoft,19654.45,17179.11,Approved within Budget
+EXP-10622,2025-06-05,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,30933.05,33250.51,Approved with Variance
+EXP-10623,2025-02-13,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,38916.61,47986.13,Over-budget Flag
+EXP-10624,2025-11-26,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,48277.83,44421.45,Approved within Budget
+EXP-10625,2026-05-13,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,30823.95,34707.83,Approved with Variance
+EXP-10626,2025-07-03,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,37377.43,34774.97,Approved within Budget
+EXP-10627,2024-12-05,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Apple,57322.97,61010.62,Approved with Variance
+EXP-10628,2024-01-29,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,7567.82,6725.3,Approved within Budget
+EXP-10629,2024-04-28,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,22670.59,23354.07,Approved with Variance
+EXP-10630,2026-06-17,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,54934.47,63310.07,Over-budget Flag
+EXP-10631,2024-09-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,67664.48,66922.11,Approved within Budget
+EXP-10632,2024-07-01,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,40817.42,45550.8,Approved with Variance
+EXP-10633,2025-08-17,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,42247.94,49353.2,Over-budget Flag
+EXP-10634,2024-09-28,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,12502.04,15263.38,Over-budget Flag
+EXP-10635,2024-02-09,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,36318.87,34279.81,Approved within Budget
+EXP-10636,2024-04-21,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,42283.21,42694.47,Approved with Variance
+EXP-10637,2025-09-02,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,21972.94,20016.61,Approved within Budget
+EXP-10638,2025-03-20,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,23847.03,29737.09,Over-budget Flag
+EXP-10639,2024-12-19,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,31409.89,38345.21,Over-budget Flag
+EXP-10640,2026-01-16,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,6404.98,6827.6,Approved with Variance
+EXP-10641,2026-03-16,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,27545.54,32691.41,Over-budget Flag
+EXP-10642,2024-11-17,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,19801.36,20957.43,Approved with Variance
+EXP-10643,2025-03-22,Software Engineering,Cloud & Hosting,Docker Hub,Docker,27924.81,30701.49,Approved with Variance
+EXP-10644,2025-09-12,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,13383.35,11852.96,Approved within Budget
+EXP-10645,2025-06-07,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,67336.91,77579.4,Over-budget Flag
+EXP-10646,2024-04-28,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,46551.47,41946.85,Approved within Budget
+EXP-10647,2025-01-29,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,52537.16,62016.28,Over-budget Flag
+EXP-10648,2025-08-13,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,60241.99,70050.06,Over-budget Flag
+EXP-10649,2024-07-13,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,39890.95,45216.31,Approved with Variance
+EXP-10650,2024-09-17,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,11084.42,9582.08,Approved within Budget
+EXP-10651,2024-02-15,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,42597.46,41372.84,Approved within Budget
+EXP-10652,2025-12-26,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,46078.88,44016.62,Approved within Budget
+EXP-10653,2025-03-22,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,57180.76,56840.8,Approved within Budget
+EXP-10654,2024-01-02,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,35216.17,31168.32,Approved within Budget
+EXP-10655,2025-06-16,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,13930.62,17061.99,Over-budget Flag
+EXP-10656,2026-04-05,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,24864.31,26642.63,Approved with Variance
+EXP-10657,2025-07-05,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,30415.76,29570.5,Approved within Budget
+EXP-10658,2025-12-04,Software Engineering,Cloud & Hosting,Docker Hub,Docker,50214.21,50655.72,Approved with Variance
+EXP-10659,2026-01-06,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,44954.48,46252.81,Approved with Variance
+EXP-10660,2026-01-29,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,29926.77,32627.29,Approved with Variance
+EXP-10661,2026-01-24,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,74056.07,78223.34,Approved with Variance
+EXP-10662,2025-11-17,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Zoom,47404.24,57726.84,Over-budget Flag
+EXP-10663,2024-07-20,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,21605.88,22659.93,Approved with Variance
+EXP-10664,2025-01-07,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,12124.77,15117.93,Over-budget Flag
+EXP-10665,2025-03-17,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,15700.14,18692.12,Over-budget Flag
+EXP-10666,2024-03-12,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,22217.04,20737.48,Approved within Budget
+EXP-10667,2025-11-11,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,16247.7,19858.56,Over-budget Flag
+EXP-10668,2024-12-04,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,18059.69,16191.35,Approved within Budget
+EXP-10669,2025-09-30,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,24956.66,29373.49,Over-budget Flag
+EXP-10670,2024-11-17,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,17136.15,17174.69,Approved with Variance
+EXP-10671,2025-11-10,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,67773.58,81408.93,Over-budget Flag
+EXP-10672,2026-05-18,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,10616.36,12710.15,Over-budget Flag
+EXP-10673,2024-05-07,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,41715.8,48906.36,Over-budget Flag
+EXP-10674,2026-01-07,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,33727.78,39327.0,Over-budget Flag
+EXP-10675,2024-11-03,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,73766.5,71691.57,Approved within Budget
+EXP-10676,2025-06-03,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,12842.72,11332.0,Approved within Budget
+EXP-10677,2024-11-12,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,32849.89,33217.55,Approved with Variance
+EXP-10678,2025-11-13,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,72862.93,66990.89,Approved within Budget
+EXP-10679,2025-02-22,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,65585.5,73979.16,Approved with Variance
+EXP-10680,2024-11-30,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,62195.04,61476.06,Approved within Budget
+EXP-10681,2025-02-16,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,23053.2,28591.59,Over-budget Flag
+EXP-10682,2025-12-14,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,16962.13,18766.71,Approved with Variance
+EXP-10683,2024-10-29,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,51805.03,61077.73,Over-budget Flag
+EXP-10684,2025-07-21,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,70056.32,63261.55,Approved within Budget
+EXP-10685,2024-05-10,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,43973.4,52539.67,Over-budget Flag
+EXP-10686,2024-07-15,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,45012.89,54875.34,Over-budget Flag
+EXP-10687,2025-03-06,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,24598.54,25701.16,Approved with Variance
+EXP-10688,2025-11-11,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,58864.51,64309.55,Approved with Variance
+EXP-10689,2025-01-23,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,18093.06,20914.2,Over-budget Flag
+EXP-10690,2025-11-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,27657.55,25443.16,Approved within Budget
+EXP-10691,2026-02-05,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,34780.55,36555.28,Approved with Variance
+EXP-10692,2024-06-27,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,40532.73,40916.38,Approved with Variance
+EXP-10693,2025-09-22,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,21968.68,19959.64,Approved within Budget
+EXP-10694,2025-08-05,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,13038.58,12999.64,Approved within Budget
+EXP-10695,2024-11-04,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,47743.4,41883.8,Approved within Budget
+EXP-10696,2025-02-19,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,25204.14,21683.75,Approved within Budget
+EXP-10697,2025-07-15,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,45686.68,41303.8,Approved within Budget
+EXP-10698,2026-05-03,IT Support & Operations,Cloud & Hosting,Developer Laptops,ServiceNow,15805.39,19523.55,Over-budget Flag
+EXP-10699,2024-01-01,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,38679.81,41380.12,Approved with Variance
+EXP-10700,2024-11-07,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,42281.26,52273.54,Over-budget Flag
+EXP-10701,2024-10-20,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,8627.65,8826.08,Approved with Variance
+EXP-10702,2024-08-03,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,28562.3,27840.43,Approved within Budget
+EXP-10703,2025-03-16,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,14409.03,15164.88,Approved with Variance
+EXP-10704,2026-03-15,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,9436.25,9679.75,Approved with Variance
+EXP-10705,2025-08-16,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,74297.22,66292.87,Approved within Budget
+EXP-10706,2025-09-13,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,27564.77,30495.75,Approved with Variance
+EXP-10707,2025-11-01,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,61691.21,57768.59,Approved within Budget
+EXP-10708,2024-11-25,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,22824.85,25057.92,Approved with Variance
+EXP-10709,2025-04-21,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,52705.19,58507.0,Approved with Variance
+EXP-10710,2025-03-28,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,58215.95,53023.67,Approved within Budget
+EXP-10711,2025-03-28,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,46694.71,40836.38,Approved within Budget
+EXP-10712,2025-11-22,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,38010.33,44179.58,Over-budget Flag
+EXP-10713,2024-08-06,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,33828.86,34976.34,Approved with Variance
+EXP-10714,2025-06-07,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,29420.78,25692.15,Approved within Budget
+EXP-10715,2025-04-29,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,70067.04,87439.92,Over-budget Flag
+EXP-10716,2026-03-23,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,63143.36,55131.24,Approved within Budget
+EXP-10717,2026-03-26,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,72551.88,81839.54,Approved with Variance
+EXP-10718,2026-01-23,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,13700.81,17036.57,Over-budget Flag
+EXP-10719,2024-06-22,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,56160.72,53109.62,Approved within Budget
+EXP-10720,2025-11-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,70683.83,64103.15,Approved within Budget
+EXP-10721,2024-03-27,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,CrowdStrike,17686.31,15892.1,Approved within Budget
+EXP-10722,2024-10-17,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,9654.74,9377.75,Approved within Budget
+EXP-10723,2025-06-11,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,56878.45,50645.61,Approved within Budget
+EXP-10724,2025-11-10,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,45213.12,50949.06,Approved with Variance
+EXP-10725,2025-10-10,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,63928.01,55931.68,Approved within Budget
+EXP-10726,2025-09-26,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Apple,14784.07,15578.99,Approved with Variance
+EXP-10727,2024-12-09,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,60668.71,75755.73,Over-budget Flag
+EXP-10728,2024-04-05,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,19113.91,22470.09,Over-budget Flag
+EXP-10729,2026-04-18,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Palo Alto Networks,16455.92,18037.13,Approved with Variance
+EXP-10730,2026-02-08,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,16498.61,16044.92,Approved within Budget
+EXP-10731,2024-08-28,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,62020.23,68194.86,Approved with Variance
+EXP-10732,2025-11-19,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,51563.81,54699.74,Approved with Variance
+EXP-10733,2024-11-13,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,41614.58,42464.91,Approved with Variance
+EXP-10734,2024-08-18,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,30118.13,27175.11,Approved within Budget
+EXP-10735,2026-04-05,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,66404.04,79993.07,Over-budget Flag
+EXP-10736,2024-07-22,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,32471.16,33442.5,Approved with Variance
+EXP-10737,2024-05-30,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,62161.96,57676.91,Approved within Budget
+EXP-10738,2024-01-26,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,35739.44,35635.93,Approved within Budget
+EXP-10739,2024-02-17,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,31386.11,31877.36,Approved with Variance
+EXP-10740,2024-09-07,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,37387.58,44155.3,Over-budget Flag
+EXP-10741,2025-05-01,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,26096.45,29839.87,Approved with Variance
+EXP-10742,2025-09-17,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,57332.66,66375.28,Over-budget Flag
+EXP-10743,2026-05-20,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,40190.43,34339.21,Approved within Budget
+EXP-10744,2026-02-25,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,21254.89,21604.78,Approved with Variance
+EXP-10745,2024-03-15,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,67970.22,70861.51,Approved with Variance
+EXP-10746,2025-04-11,Software Engineering,Cloud & Hosting,Docker Hub,Docker,31872.39,27336.21,Approved within Budget
+EXP-10747,2025-02-28,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,43048.7,41065.24,Approved within Budget
+EXP-10748,2026-06-26,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,68453.05,79002.76,Over-budget Flag
+EXP-10749,2025-10-06,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,48696.66,44062.87,Approved within Budget
+EXP-10750,2025-08-12,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,13182.86,14028.2,Approved with Variance
+EXP-10751,2024-07-18,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,70788.25,66263.52,Approved within Budget
+EXP-10752,2026-01-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,48939.56,41835.9,Approved within Budget
+EXP-10753,2025-12-14,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,28443.39,26921.12,Approved within Budget
+EXP-10754,2025-01-28,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,14749.05,18293.98,Over-budget Flag
+EXP-10755,2025-05-21,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,60581.76,70917.91,Over-budget Flag
+EXP-10756,2025-02-13,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,48405.09,59723.68,Over-budget Flag
+EXP-10757,2024-09-06,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,42342.28,44253.68,Approved with Variance
+EXP-10758,2024-05-31,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,67572.48,60402.67,Approved within Budget
+EXP-10759,2025-11-02,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,60201.8,64366.79,Approved with Variance
+EXP-10760,2025-12-05,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Databricks,15617.24,16113.1,Approved with Variance
+EXP-10761,2024-01-06,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,26820.54,31855.9,Over-budget Flag
+EXP-10762,2026-02-07,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,22394.24,19913.7,Approved within Budget
+EXP-10763,2026-05-31,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,57076.24,59661.59,Approved with Variance
+EXP-10764,2026-02-27,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,7347.27,6686.16,Approved within Budget
+EXP-10765,2026-06-25,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,44892.28,43988.62,Approved within Budget
+EXP-10766,2024-04-19,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,58372.11,66832.73,Approved with Variance
+EXP-10767,2026-03-08,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,66373.59,69055.56,Approved with Variance
+EXP-10768,2025-03-11,Software Engineering,Cloud & Hosting,Docker Hub,Docker,28945.72,28956.0,Approved with Variance
+EXP-10769,2024-08-12,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,62488.01,62974.82,Approved with Variance
+EXP-10770,2024-06-29,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,12744.22,13174.7,Approved with Variance
+EXP-10771,2026-04-03,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,64251.66,74789.36,Over-budget Flag
+EXP-10772,2025-12-13,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,13924.21,16804.21,Over-budget Flag
+EXP-10773,2025-06-14,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,32810.11,40426.45,Over-budget Flag
+EXP-10774,2025-04-20,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,60810.68,70829.93,Over-budget Flag
+EXP-10775,2024-02-21,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,15494.22,15124.88,Approved within Budget
+EXP-10776,2025-07-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,21047.6,23683.89,Approved with Variance
+EXP-10777,2024-09-12,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,55557.68,56948.91,Approved with Variance
+EXP-10778,2026-05-18,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,55402.56,52735.94,Approved within Budget
+EXP-10779,2024-05-04,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,49880.33,59175.46,Over-budget Flag
+EXP-10780,2025-04-12,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,53576.39,46363.43,Approved within Budget
+EXP-10781,2024-05-16,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,42990.71,52049.06,Over-budget Flag
+EXP-10782,2026-03-31,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,22625.93,23408.58,Approved with Variance
+EXP-10783,2025-04-20,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,29198.72,32261.1,Approved with Variance
+EXP-10784,2025-11-14,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,17711.84,19726.41,Approved with Variance
+EXP-10785,2025-06-27,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,68591.54,82861.81,Over-budget Flag
+EXP-10786,2025-07-26,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,45837.43,50635.14,Approved with Variance
+EXP-10787,2025-09-01,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,33059.6,36219.22,Approved with Variance
+EXP-10788,2024-11-20,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,37340.41,32734.87,Approved within Budget
+EXP-10789,2026-02-12,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,71309.83,75400.39,Approved with Variance
+EXP-10790,2025-03-29,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,15734.6,14319.55,Approved within Budget
+EXP-10791,2025-09-19,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,46036.09,52710.1,Approved with Variance
+EXP-10792,2026-04-14,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,40412.21,42630.39,Approved with Variance
+EXP-10793,2026-01-06,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,47801.8,53637.97,Approved with Variance
+EXP-10794,2025-05-31,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,6267.71,5432.03,Approved within Budget
+EXP-10795,2025-03-12,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,66048.67,58381.53,Approved within Budget
+EXP-10796,2026-04-30,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,70248.28,79839.23,Approved with Variance
+EXP-10797,2025-07-15,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,44559.32,39160.23,Approved within Budget
+EXP-10798,2025-04-01,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,53765.56,47233.19,Approved within Budget
+EXP-10799,2024-06-11,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,69574.96,59475.69,Approved within Budget
+EXP-10800,2026-01-31,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,54506.7,67184.99,Over-budget Flag
+EXP-10801,2026-06-01,Software Engineering,Cloud & Hosting,Jira & Confluence,GitHub,15677.73,17951.05,Approved with Variance
+EXP-10802,2025-05-01,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,45340.19,44945.76,Approved within Budget
+EXP-10803,2025-04-05,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,47470.05,45980.17,Approved within Budget
+EXP-10804,2024-09-22,Software Engineering,Cloud & Hosting,JetBrains IDEs,GitHub,34689.15,34338.14,Approved within Budget
+EXP-10805,2026-02-08,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,56551.1,65591.44,Over-budget Flag
+EXP-10806,2024-09-10,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,70405.69,78470.54,Approved with Variance
+EXP-10807,2026-05-10,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,69789.8,64491.23,Approved within Budget
+EXP-10808,2025-10-14,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,36558.76,33621.03,Approved within Budget
+EXP-10809,2024-10-10,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,12926.66,11496.43,Approved within Budget
+EXP-10810,2026-02-23,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,73938.88,82376.87,Approved with Variance
+EXP-10811,2026-03-07,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,63722.87,73647.65,Over-budget Flag
+EXP-10812,2025-06-17,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,13726.39,13122.68,Approved within Budget
+EXP-10813,2025-05-11,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,69458.93,59622.02,Approved within Budget
+EXP-10814,2025-10-03,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,65892.75,58174.64,Approved within Budget
+EXP-10815,2024-09-01,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,41318.66,51117.13,Over-budget Flag
+EXP-10816,2024-10-08,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,46389.28,44913.08,Approved within Budget
+EXP-10817,2025-03-26,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,32930.19,38122.93,Over-budget Flag
+EXP-10818,2024-03-20,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,8833.31,9715.45,Approved with Variance
+EXP-10819,2025-12-31,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,28463.81,28542.82,Approved with Variance
+EXP-10820,2024-10-19,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,61199.74,57054.98,Approved within Budget
+EXP-10821,2024-08-28,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,5324.24,4784.12,Approved within Budget
+EXP-10822,2024-10-05,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,28344.94,31066.2,Approved with Variance
+EXP-10823,2024-12-09,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,32871.81,38126.48,Over-budget Flag
+EXP-10824,2024-11-23,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,42617.69,47201.72,Approved with Variance
+EXP-10825,2025-07-07,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,69389.89,73700.45,Approved with Variance
+EXP-10826,2024-03-23,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,29244.22,25348.32,Approved within Budget
+EXP-10827,2024-05-21,Data & Analytics,Cloud & Hosting,Fivetran ETL,Snowflake Inc,29286.72,36239.26,Over-budget Flag
+EXP-10828,2024-06-03,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Mandiant,56625.09,66222.23,Over-budget Flag
+EXP-10829,2024-08-24,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,36655.26,35450.36,Approved within Budget
+EXP-10830,2025-01-27,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,20722.34,25736.9,Over-budget Flag
+EXP-10831,2025-12-11,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,36670.77,39998.74,Approved with Variance
+EXP-10832,2024-06-05,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,14859.99,16092.91,Approved with Variance
+EXP-10833,2025-12-24,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,17347.09,19935.78,Approved with Variance
+EXP-10834,2024-08-07,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,39885.74,46854.09,Over-budget Flag
+EXP-10835,2024-03-06,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,34324.78,38189.46,Approved with Variance
+EXP-10836,2025-02-28,IT Support & Operations,Cloud & Hosting,Slack Enterprise,ServiceNow,69039.21,62220.78,Approved within Budget
+EXP-10837,2025-02-21,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,30367.57,29921.38,Approved within Budget
+EXP-10838,2024-12-04,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,45641.18,55738.54,Over-budget Flag
+EXP-10839,2025-07-09,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,49258.5,46295.42,Approved within Budget
+EXP-10840,2025-04-22,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,5916.61,5909.91,Approved within Budget
+EXP-10841,2025-03-01,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,51447.62,52622.21,Approved with Variance
+EXP-10842,2024-03-04,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,17462.52,17912.39,Approved with Variance
+EXP-10843,2024-07-30,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,72274.92,79153.75,Approved with Variance
+EXP-10844,2026-05-02,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,15406.39,18907.19,Over-budget Flag
+EXP-10845,2025-03-06,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,34023.69,32195.84,Approved within Budget
+EXP-10846,2025-02-02,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,10974.48,9861.67,Approved within Budget
+EXP-10847,2026-02-27,Software Engineering,Cloud & Hosting,Docker Hub,Docker,74781.2,69470.85,Approved within Budget
+EXP-10848,2025-08-21,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,40153.65,48375.91,Over-budget Flag
+EXP-10849,2025-12-13,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,46676.95,51733.2,Approved with Variance
+EXP-10850,2024-01-21,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,9695.35,9349.83,Approved within Budget
+EXP-10851,2026-05-27,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,57497.23,67638.52,Over-budget Flag
+EXP-10852,2026-06-20,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,19693.39,23524.7,Over-budget Flag
+EXP-10853,2026-02-22,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,67863.8,80663.3,Over-budget Flag
+EXP-10854,2025-08-12,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Amazon Web Services,19359.77,23571.89,Over-budget Flag
+EXP-10855,2025-01-24,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,18348.14,17447.18,Approved within Budget
+EXP-10856,2025-05-03,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,7558.48,8707.5,Over-budget Flag
+EXP-10857,2024-01-07,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,38044.69,39346.42,Approved with Variance
+EXP-10858,2024-12-26,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Amazon Web Services,44538.88,52858.72,Over-budget Flag
+EXP-10859,2024-11-01,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,9599.6,10956.95,Approved with Variance
+EXP-10860,2026-02-10,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,59286.93,68807.16,Over-budget Flag
+EXP-10861,2025-02-03,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,36730.22,40861.07,Approved with Variance
+EXP-10862,2026-05-23,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Microsoft,41707.32,38411.25,Approved within Budget
+EXP-10863,2026-05-05,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,35853.39,38291.81,Approved with Variance
+EXP-10864,2025-03-05,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,33053.41,41114.08,Over-budget Flag
+EXP-10865,2025-07-05,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,44174.82,54112.18,Over-budget Flag
+EXP-10866,2026-02-04,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Dell,15866.82,13760.81,Approved within Budget
+EXP-10867,2026-01-22,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,17734.97,16243.92,Approved within Budget
+EXP-10868,2025-07-13,Software Engineering,Cloud & Hosting,GitHub Enterprise,Docker,65324.99,58968.31,Approved within Budget
+EXP-10869,2026-03-30,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,71228.08,81227.93,Approved with Variance
+EXP-10870,2025-09-09,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,31131.65,36645.51,Over-budget Flag
+EXP-10871,2024-08-13,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Google Cloud,23952.13,22404.93,Approved within Budget
+EXP-10872,2025-05-14,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,50079.97,52701.21,Approved with Variance
+EXP-10873,2024-08-12,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,33611.39,39872.56,Over-budget Flag
+EXP-10874,2024-10-06,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,6777.04,7746.97,Approved with Variance
+EXP-10875,2025-03-22,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,15930.68,16996.36,Approved with Variance
+EXP-10876,2025-05-12,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Slack,55118.06,59865.88,Approved with Variance
+EXP-10877,2024-01-30,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,51124.68,53851.89,Approved with Variance
+EXP-10878,2025-02-02,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Slack,6896.72,6683.06,Approved within Budget
+EXP-10879,2024-12-10,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,20538.05,22099.12,Approved with Variance
+EXP-10880,2025-11-15,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,21175.24,23833.88,Approved with Variance
+EXP-10881,2025-11-26,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,52032.49,62404.08,Over-budget Flag
+EXP-10882,2026-03-28,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,6379.74,7046.53,Approved with Variance
+EXP-10883,2025-02-18,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,12287.6,14185.4,Over-budget Flag
+EXP-10884,2026-01-11,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,60994.13,55750.38,Approved within Budget
+EXP-10885,2024-06-18,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,17498.13,18103.97,Approved with Variance
+EXP-10886,2026-05-10,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Mandiant,50692.23,43277.61,Approved within Budget
+EXP-10887,2025-04-23,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,21672.79,20560.36,Approved within Budget
+EXP-10888,2024-05-10,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,11960.9,13642.42,Approved with Variance
+EXP-10889,2025-09-29,Software Engineering,Cloud & Hosting,Jira & Confluence,Atlassian,22022.05,27455.42,Over-budget Flag
+EXP-10890,2025-06-30,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,55558.69,49428.97,Approved within Budget
+EXP-10891,2024-01-28,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Dell,64898.75,65586.53,Approved with Variance
+EXP-10892,2025-02-07,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Apple,63115.39,73846.8,Over-budget Flag
+EXP-10893,2025-08-29,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,32802.85,30559.6,Approved within Budget
+EXP-10894,2025-07-31,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,51765.96,55494.87,Approved with Variance
+EXP-10895,2025-11-09,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,19348.9,22120.21,Approved with Variance
+EXP-10896,2024-01-28,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,25520.34,27980.35,Approved with Variance
+EXP-10897,2024-03-26,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,67743.51,62676.97,Approved within Budget
+EXP-10898,2025-10-20,Software Engineering,Cloud & Hosting,JetBrains IDEs,Atlassian,5910.13,5863.76,Approved within Budget
+EXP-10899,2025-03-14,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,10985.6,12781.93,Over-budget Flag
+EXP-10900,2024-05-18,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,19552.04,20953.74,Approved with Variance
+EXP-10901,2026-06-06,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,6857.25,5843.01,Approved within Budget
+EXP-10902,2025-04-17,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,17700.48,20433.37,Over-budget Flag
+EXP-10903,2024-07-05,Data & Analytics,Cloud & Hosting,Fivetran ETL,Fivetran,45812.91,39588.06,Approved within Budget
+EXP-10904,2024-02-21,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Google Cloud,34499.72,39615.8,Approved with Variance
+EXP-10905,2024-09-23,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,67487.02,62829.89,Approved within Budget
+EXP-10906,2025-01-23,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,62221.05,76732.83,Over-budget Flag
+EXP-10907,2024-12-01,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Apple,28927.21,28845.53,Approved within Budget
+EXP-10908,2024-08-04,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,23159.64,22714.34,Approved within Budget
+EXP-10909,2025-04-10,Data & Analytics,Cloud & Hosting,Databricks Cluster,Databricks,31578.47,28722.36,Approved within Budget
+EXP-10910,2024-11-30,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,46320.65,45034.87,Approved within Budget
+EXP-10911,2024-12-11,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,23764.45,28533.03,Over-budget Flag
+EXP-10912,2026-02-18,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,48690.42,60791.63,Over-budget Flag
+EXP-10913,2026-06-19,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,33658.82,33568.74,Approved within Budget
+EXP-10914,2025-01-23,Cloud & Infrastructure,Cloud & Hosting,Data Center Hosting,Microsoft,43643.3,44928.34,Approved with Variance
+EXP-10915,2024-10-11,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,Zoom,35528.86,40461.27,Approved with Variance
+EXP-10916,2026-02-09,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,25612.6,30849.82,Over-budget Flag
+EXP-10917,2026-05-01,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,71391.73,77618.35,Approved with Variance
+EXP-10918,2025-03-07,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,58452.41,58838.8,Approved with Variance
+EXP-10919,2024-09-15,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,14807.92,15030.76,Approved with Variance
+EXP-10920,2026-05-04,Cybersecurity,Cloud & Hosting,Okta Identity SSO,CrowdStrike,65792.76,74230.5,Approved with Variance
+EXP-10921,2024-03-24,IT Support & Operations,Cloud & Hosting,Developer Laptops,ServiceNow,39120.18,33302.51,Approved within Budget
+EXP-10922,2025-04-26,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,67618.66,74234.18,Approved with Variance
+EXP-10923,2024-01-20,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,60989.87,60513.98,Approved within Budget
+EXP-10924,2026-02-06,IT Support & Operations,Cloud & Hosting,Developer Laptops,Apple,34764.95,40594.3,Over-budget Flag
+EXP-10925,2025-07-06,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,6572.85,5831.41,Approved within Budget
+EXP-10926,2024-02-23,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Microsoft,23807.42,25837.74,Approved with Variance
+EXP-10927,2024-12-24,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,42914.4,44733.51,Approved with Variance
+EXP-10928,2024-08-17,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,49343.48,54619.79,Approved with Variance
+EXP-10929,2025-10-27,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,23052.14,20192.32,Approved within Budget
+EXP-10930,2024-03-11,Software Engineering,Cloud & Hosting,Docker Hub,Atlassian,14754.93,15964.74,Approved with Variance
+EXP-10931,2026-03-10,IT Support & Operations,Cloud & Hosting,Zoom Licenses,ServiceNow,63445.12,68177.73,Approved with Variance
+EXP-10932,2025-10-29,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,73908.15,79396.87,Approved with Variance
+EXP-10933,2024-02-11,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Google Cloud,41798.31,45618.47,Approved with Variance
+EXP-10934,2026-02-11,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Snowflake Inc,17017.55,19069.65,Approved with Variance
+EXP-10935,2024-02-01,Data & Analytics,Cloud & Hosting,Databricks Cluster,Snowflake Inc,24061.51,28199.98,Over-budget Flag
+EXP-10936,2024-09-10,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Mandiant,6287.35,6022.83,Approved within Budget
+EXP-10937,2024-07-23,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,69000.92,81422.45,Over-budget Flag
+EXP-10938,2026-05-09,Data & Analytics,Cloud & Hosting,Fivetran ETL,Microsoft,13242.58,13895.47,Approved with Variance
+EXP-10939,2024-01-21,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,45356.15,39950.75,Approved within Budget
+EXP-10940,2025-09-28,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,24183.87,21122.68,Approved within Budget
+EXP-10941,2024-06-05,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,43792.46,43078.44,Approved within Budget
+EXP-10942,2024-09-01,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,50599.43,58895.65,Over-budget Flag
+EXP-10943,2024-05-09,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,63081.93,71476.39,Approved with Variance
+EXP-10944,2025-04-29,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,19449.49,22667.33,Over-budget Flag
+EXP-10945,2025-11-16,Data & Analytics,Cloud & Hosting,Databricks Cluster,Fivetran,5769.71,6098.05,Approved with Variance
+EXP-10946,2024-04-27,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Microsoft,14581.99,14962.28,Approved with Variance
+EXP-10947,2025-07-31,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,68001.3,61811.89,Approved within Budget
+EXP-10948,2024-08-11,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,66172.31,64933.37,Approved within Budget
+EXP-10949,2025-04-21,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Dell,46818.92,47924.21,Approved with Variance
+EXP-10950,2025-12-17,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Microsoft,47036.18,41647.72,Approved within Budget
+EXP-10951,2024-09-19,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,51552.57,48368.93,Approved within Budget
+EXP-10952,2026-02-24,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,17275.99,18818.57,Approved with Variance
+EXP-10953,2025-01-12,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,69008.84,78964.42,Approved with Variance
+EXP-10954,2024-06-20,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,34313.94,42869.74,Over-budget Flag
+EXP-10955,2025-09-12,Software Engineering,Cloud & Hosting,GitHub Enterprise,GitHub,31819.7,38923.3,Over-budget Flag
+EXP-10956,2025-09-13,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,CrowdStrike,41324.24,45747.01,Approved with Variance
+EXP-10957,2026-02-04,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Okta,8287.62,8440.93,Approved with Variance
+EXP-10958,2026-01-05,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,16639.84,18378.22,Approved with Variance
+EXP-10959,2024-04-27,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,56662.35,65969.74,Over-budget Flag
+EXP-10960,2026-03-07,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,CrowdStrike,10795.91,9687.54,Approved within Budget
+EXP-10961,2026-04-18,Software Engineering,Cloud & Hosting,Docker Hub,Docker,47220.65,47879.94,Approved with Variance
+EXP-10962,2024-06-16,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,22174.44,26297.13,Over-budget Flag
+EXP-10963,2024-11-14,Software Engineering,Cloud & Hosting,Docker Hub,JetBrains,32250.69,32364.64,Approved with Variance
+EXP-10964,2024-04-20,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,25208.56,27193.71,Approved with Variance
+EXP-10965,2025-08-15,Cybersecurity,Cloud & Hosting,Palo Alto Firewalls,Okta,29897.09,32441.56,Approved with Variance
+EXP-10966,2024-01-27,Software Engineering,Cloud & Hosting,JetBrains IDEs,JetBrains,55333.21,51116.29,Approved within Budget
+EXP-10967,2024-11-15,IT Support & Operations,Cloud & Hosting,Developer Laptops,ServiceNow,25798.52,25666.8,Approved within Budget
+EXP-10968,2025-08-12,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,44648.32,43925.22,Approved within Budget
+EXP-10969,2025-11-24,Software Engineering,Cloud & Hosting,GitHub Enterprise,Atlassian,38323.53,32976.58,Approved within Budget
+EXP-10970,2025-01-19,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Palo Alto Networks,51456.98,44236.37,Approved within Budget
+EXP-10971,2025-02-10,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Zoom,70578.08,83471.2,Over-budget Flag
+EXP-10972,2026-01-02,Cybersecurity,Cloud & Hosting,CrowdStrike Endpoints,Palo Alto Networks,56280.05,53985.42,Approved within Budget
+EXP-10973,2024-07-22,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Snowflake Inc,20045.83,21193.08,Approved with Variance
+EXP-10974,2024-03-18,Software Engineering,Cloud & Hosting,Jira & Confluence,Docker,7182.82,6963.67,Approved within Budget
+EXP-10975,2025-08-29,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,23358.48,28643.84,Over-budget Flag
+EXP-10976,2025-12-08,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,46655.46,44496.18,Approved within Budget
+EXP-10977,2026-04-30,IT Support & Operations,Cloud & Hosting,Slack Enterprise,Apple,8599.81,8787.83,Approved with Variance
+EXP-10978,2025-10-04,Software Engineering,Cloud & Hosting,Docker Hub,Docker,39745.64,47658.68,Over-budget Flag
+EXP-10979,2024-09-05,Software Engineering,Cloud & Hosting,Jira & Confluence,JetBrains,46779.0,55516.07,Over-budget Flag
+EXP-10980,2024-04-14,Data & Analytics,Cloud & Hosting,Fivetran ETL,Databricks,28397.07,26251.4,Approved within Budget
+EXP-10981,2025-12-14,Software Engineering,Cloud & Hosting,JetBrains IDEs,Docker,58963.85,69050.05,Over-budget Flag
+EXP-10982,2026-03-02,IT Support & Operations,Cloud & Hosting,Zoom Licenses,Slack,12461.88,12876.55,Approved with Variance
+EXP-10983,2024-11-04,IT Support & Operations,Cloud & Hosting,Developer Laptops,Slack,10259.64,10702.73,Approved with Variance
+EXP-10984,2026-05-20,Software Engineering,Cloud & Hosting,Docker Hub,GitHub,55973.21,50565.75,Approved within Budget
+EXP-10985,2025-12-01,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Palo Alto Networks,39684.39,35011.18,Approved within Budget
+EXP-10986,2025-09-06,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Okta,53188.17,60697.05,Approved with Variance
+EXP-10987,2026-04-04,IT Support & Operations,Cloud & Hosting,Developer Laptops,Dell,35437.91,37159.64,Approved with Variance
+EXP-10988,2024-05-03,Cybersecurity,Cloud & Hosting,Okta Identity SSO,Mandiant,22248.14,22798.57,Approved with Variance
+EXP-10989,2026-03-26,Data & Analytics,Cloud & Hosting,Snowflake Warehouse,Databricks,62337.16,71176.77,Approved with Variance
+EXP-10990,2025-08-02,Cloud & Infrastructure,Cloud & Hosting,AWS Cloud Compute,Google Cloud,60959.11,70481.24,Over-budget Flag
+EXP-10991,2026-03-12,Software Engineering,Cloud & Hosting,GitHub Enterprise,JetBrains,53628.75,48993.26,Approved within Budget
+EXP-10992,2024-02-12,Data & Analytics,Cloud & Hosting,Databricks Cluster,Microsoft,24050.16,26313.04,Approved with Variance
+EXP-10993,2024-12-21,IT Support & Operations,Cloud & Hosting,Developer Laptops,Zoom,46316.15,41876.36,Approved within Budget
+EXP-10994,2025-06-29,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,30268.17,34825.04,Over-budget Flag
+EXP-10995,2025-03-14,IT Support & Operations,Cloud & Hosting,ServiceNow Ticketing,ServiceNow,11410.75,12697.68,Approved with Variance
+EXP-10996,2025-11-08,Cloud & Infrastructure,Cloud & Hosting,Azure Blob Storage,Amazon Web Services,69211.95,85313.82,Over-budget Flag
+EXP-10997,2025-01-14,Data & Analytics,Cloud & Hosting,Power BI Premium Licenses,Fivetran,14577.3,12792.79,Approved within Budget
+EXP-10998,2024-03-11,Cloud & Infrastructure,Cloud & Hosting,GCP Kubernetes,Amazon Web Services,71516.61,62421.26,Approved within Budget
+EXP-10999,2025-06-02,Cybersecurity,Cloud & Hosting,Penetration Testing Audit,Okta,36220.4,34875.71,Approved within Budget
